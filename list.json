@@ -115,6 +115,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9a946c3Cb16c08334b69aE249690C236Ebd5583E/logo.png"
-    }
+    },
+    {
+      "name": "Stithulf ERC",
+      "address": "0x9Df9De5Ed89ADBBd9fa2C14691903A0DE9048A87",
+      "symbol": "SULFERC",
+      "chainId": 56,
+      "decimals": 4,
+      "logoURI": "https://bscscan.com/token/images/stithulf_32.png"
+    } 
   ]
 }
